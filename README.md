@@ -28,7 +28,7 @@ A modern and responsive **Expense Tracker** built using **HTML, CSS, and JavaScr
 
 ## 📸 Preview
 
-![Expense Tracker Screenshot](./assets/expense-tracker-preview.png)
+![Expense Tracker Screenshot](./assets/expense-tracker.png)
 
 
 
